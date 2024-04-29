@@ -1,0 +1,15 @@
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\bin\Debug\net8.0\cqrs.example.application.deps.json
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\bin\Debug\net8.0\cqrs.example.application.dll
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\bin\Debug\net8.0\cqrs.example.application.pdb
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\bin\Debug\net8.0\crqs.example.domain.dll
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\bin\Debug\net8.0\crqs.example.domain.pdb
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.csproj.AssemblyReference.cache
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.AssemblyInfoInputs.cache
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.AssemblyInfo.cs
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.csproj.CoreCompileInputs.cache
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.exa.3ECC077F.Up2Date
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.dll
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\refint\cqrs.example.application.dll
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\cqrs.example.application.pdb
+C:\Users\pedro.guarnieri\source\repos\cqrs-example\cqrs.example.application\obj\Debug\net8.0\ref\cqrs.example.application.dll

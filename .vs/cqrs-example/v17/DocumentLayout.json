@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE553B-42CC-4A33-A898-0AEAFBE2B569}|crqs.example.domain\\crqs.example.domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\enties\\carcontext\\carentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DE553B-42CC-4A33-A898-0AEAFBE2B569}|crqs.example.domain\\crqs.example.domain.csproj|solutionrelative:crqs.example.domain\\enties\\carcontext\\carentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE553B-42CC-4A33-A898-0AEAFBE2B569}|crqs.example.domain\\crqs.example.domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\enties\\validation\\carvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DE553B-42CC-4A33-A898-0AEAFBE2B569}|crqs.example.domain\\crqs.example.domain.csproj|solutionrelative:crqs.example.domain\\enties\\validation\\carvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\input\\handlers\\carcontext\\insertcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|solutionrelative:cqrs.example.application\\input\\handlers\\carcontext\\insertcarhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D116141-C6FD-432E-8D4D-6CFC815413B0}|cqrs-example\\cqrs-example.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs-example\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D116141-C6FD-432E-8D4D-6CFC815413B0}|cqrs-example\\cqrs-example.csproj|solutionrelative:cqrs-example\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\outuput\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|solutionrelative:cqrs.example.application\\outuput\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE553B-42CC-4A33-A898-0AEAFBE2B569}|crqs.example.domain\\crqs.example.domain.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\enties\\valueobjects\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DE553B-42CC-4A33-A898-0AEAFBE2B569}|crqs.example.domain\\crqs.example.domain.csproj|solutionrelative:crqs.example.domain\\enties\\valueobjects\\stats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\input\\commands\\carcontext\\insertcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|solutionrelative:cqrs.example.application\\input\\commands\\carcontext\\insertcarcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D116141-C6FD-432E-8D4D-6CFC815413B0}|cqrs-example\\cqrs-example.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs-example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D116141-C6FD-432E-8D4D-6CFC815413B0}|cqrs-example\\cqrs-example.csproj|solutionrelative:cqrs-example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\input\\commands\\interfaces\\icommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|solutionrelative:cqrs.example.application\\input\\commands\\interfaces\\icommandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\input\\handlers\\interfaces\\ihandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|solutionrelative:cqrs.example.application\\input\\handlers\\interfaces\\ihandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|c:\\users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\outuput\\results\\interfaces\\iresultbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F72110A-518A-45F9-960F-653A05810DE9}|cqrs.example.application\\cqrs.example.application.csproj|solutionrelative:cqrs.example.application\\outuput\\results\\interfaces\\iresultbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarValidation.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\Enties\\Validation\\CarValidation.cs",
+              "RelativeDocumentMoniker": "crqs.example.domain\\Enties\\Validation\\CarValidation.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\Enties\\Validation\\CarValidation.cs",
+              "RelativeToolTip": "crqs.example.domain\\Enties\\Validation\\CarValidation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:20:54.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Stats.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\Enties\\ValueObjects\\Stats.cs",
+              "RelativeDocumentMoniker": "crqs.example.domain\\Enties\\ValueObjects\\Stats.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\Enties\\ValueObjects\\Stats.cs",
+              "RelativeToolTip": "crqs.example.domain\\Enties\\ValueObjects\\Stats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:12:26.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs-example\\Program.cs",
+              "RelativeDocumentMoniker": "cqrs-example\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs-example\\Program.cs",
+              "RelativeToolTip": "cqrs-example\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:07:06.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs-example\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "cqrs-example\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs-example\\Controllers\\CarController.cs",
+              "RelativeToolTip": "cqrs-example\\Controllers\\CarController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T16:04:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarEntity.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\Enties\\CarContext\\CarEntity.cs",
+              "RelativeDocumentMoniker": "crqs.example.domain\\Enties\\CarContext\\CarEntity.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\crqs.example.domain\\Enties\\CarContext\\CarEntity.cs",
+              "RelativeToolTip": "crqs.example.domain\\Enties\\CarContext\\CarEntity.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAhwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:54:04.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertCarHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Handlers\\CarContext\\InsertCarHandler.cs",
+              "RelativeDocumentMoniker": "cqrs.example.application\\Input\\Handlers\\CarContext\\InsertCarHandler.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Handlers\\CarContext\\InsertCarHandler.cs",
+              "RelativeToolTip": "cqrs.example.application\\Input\\Handlers\\CarContext\\InsertCarHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:51:53.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Outuput\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "cqrs.example.application\\Outuput\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Outuput\\Results\\Result.cs",
+              "RelativeToolTip": "cqrs.example.application\\Outuput\\Results\\Result.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:47:11.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IResultBase.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Outuput\\Results\\Interfaces\\IResultBase.cs",
+              "RelativeDocumentMoniker": "cqrs.example.application\\Outuput\\Results\\Interfaces\\IResultBase.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Outuput\\Results\\Interfaces\\IResultBase.cs",
+              "RelativeToolTip": "cqrs.example.application\\Outuput\\Results\\Interfaces\\IResultBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:46:54.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHandlerBase.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Handlers\\Interfaces\\IHandlerBase.cs",
+              "RelativeDocumentMoniker": "cqrs.example.application\\Input\\Handlers\\Interfaces\\IHandlerBase.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Handlers\\Interfaces\\IHandlerBase.cs",
+              "RelativeToolTip": "cqrs.example.application\\Input\\Handlers\\Interfaces\\IHandlerBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:45:06.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertCarCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Commands\\CarContext\\InsertCarCommand.cs",
+              "RelativeDocumentMoniker": "cqrs.example.application\\Input\\Commands\\CarContext\\InsertCarCommand.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Commands\\CarContext\\InsertCarCommand.cs",
+              "RelativeToolTip": "cqrs.example.application\\Input\\Commands\\CarContext\\InsertCarCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:43:35.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICommandBase.cs",
+              "DocumentMoniker": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Commands\\Interfaces\\ICommandBase.cs",
+              "RelativeDocumentMoniker": "cqrs.example.application\\Input\\Commands\\Interfaces\\ICommandBase.cs",
+              "ToolTip": "C:\\Users\\pedro.guarnieri\\source\\repos\\cqrs-example\\cqrs.example.application\\Input\\Commands\\Interfaces\\ICommandBase.cs",
+              "RelativeToolTip": "cqrs.example.application\\Input\\Commands\\Interfaces\\ICommandBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T15:43:02.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

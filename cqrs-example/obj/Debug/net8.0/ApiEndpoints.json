@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "cqrs_example.Controllers.CarController",
+    "Method": "PostCar",
+    "RelativePath": "PostCar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "cqrs.example.application.Input.Commands.CarContext.InsertCarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "cqrs.example.application.Outuput.Results.Result",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

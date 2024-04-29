@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cqrs.example.application/1.0.0": {
+        "dependencies": {
+          "crqs.example.domain": "1.0.0"
+        },
+        "runtime": {
+          "cqrs.example.application.dll": {}
+        }
+      },
+      "crqs.example.domain/1.0.0": {
+        "runtime": {
+          "crqs.example.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cqrs.example.application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "crqs.example.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
