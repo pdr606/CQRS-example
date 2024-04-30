@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>cqrs_example</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cars.Infrastructure.IoC\Cars.Infrastructure.IoC.csproj" />
+    <ProjectReference Include="..\Cars.Infrastructure\Cars.Infrastructure.csproj" />
+    <ProjectReference Include="..\cqrs.example.application\Cars.Application.csproj" />
+  </ItemGroup>
+
+</Project>
